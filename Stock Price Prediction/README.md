@@ -1,0 +1,1 @@
+Developed a Time Series Forecasting Project that takes into account daily prices of 9 different stocks over a period of 8 years by first performing Exploratory Data Analysis using Interactive Visualisations and predicting the price using Ridge Regression and then using the LSTM Time Series Model.
